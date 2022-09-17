@@ -7,7 +7,7 @@
 
 Projeto construído do evento Next Level Week da Rocketseat.
 
-[🖇️Acesso ao projeto] (https://vxnnydll.github.io/NLW)
+Acesso ao projeto [Link](https://vxnnydll.github.io/NLW)
 
 ## 🛠️ Tecnologias
 - HTML
